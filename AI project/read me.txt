@@ -1,0 +1,2 @@
+-It is recommended to run the python file on Google colab
+-To see the outputs, open the ipynb file in applications such as visual code.
